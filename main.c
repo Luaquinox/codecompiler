@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+    int meuNumero = 18;
+    char minhaPalavra = 'H';
+    float meuDecimal = 10.58;
+
+    printf("Meu número é %d, minha palavra é %c e meu decimal é %f",
+    meuNumero, minhaPalavra, meuDecimal);
+    
+}
